@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Back-End<br>-Java Developer<br>-Ciência da Computação(UERN)</p>
+<p align="left">-Full-stack<br>-Java and Ruby Developer<br>-Ciência da Computação(UERN)</p>
 
 ###
 
